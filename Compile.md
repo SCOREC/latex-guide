@@ -79,7 +79,7 @@ clean:
 
 Folks who want to make more fine-grained,
 complex Makefiles may begin by studying
-the[section on files](## File Types).
+the [section on files](## File Types).
 
 ## latex v.s. pdflatex
 
