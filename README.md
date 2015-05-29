@@ -5,7 +5,7 @@ LaTeX documents, with an emphasis
 on the methods that have worked
 well for SCOREC people.
 
-To begin the actualy guide, open
+To read the actual guide, click here:
 
 [Home](Home.md)
 
