@@ -70,8 +70,8 @@ $(NAME).pdf: $(NAME).tex $(NAME).bib fig1.eps
 	bibtex $(NAME)
 	latex $(NAME)
 	latex $(NAME)
-        dvips $(NAME).tex -o $(NAME).ps
-        ps2pdf $(NAME).ps $(NAME).pdf
+	dvips $(NAME).tex -o $(NAME).ps
+	ps2pdf $(NAME).ps $(NAME).pdf
 
 clean:
 	rm -rf *.log *.aux *.bbl *.blg $(NAME).pdf
