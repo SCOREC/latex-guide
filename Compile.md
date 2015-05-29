@@ -79,7 +79,7 @@ clean:
 
 Folks who want to make more fine-grained,
 complex Makefiles may begin by studying
-the [section on files](## File Types).
+the section on file types below.
 
 ## latex v.s. pdflatex
 
@@ -101,7 +101,7 @@ One reason we would use `latex` is some
 styles dictated by journals will compile
 better with `latex` as opposed to `pdflatex`.
 Both of these programs also output
-other files described [below](## File Types).
+other files described below.
 
 `pdflatex` also accepts more image formats
 for figures, whereas `latex` only really acceps
