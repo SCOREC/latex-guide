@@ -7,3 +7,5 @@
 [Compile LaTeX](Compile.md)
 
 [Use Git](UseGit.md)
+
+[Track Changes](TrackChanges.md)
